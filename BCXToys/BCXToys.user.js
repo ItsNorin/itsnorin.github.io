@@ -4,10 +4,12 @@
 // @version      0.5
 // @description  Sends in game actions and toy activity to XToys.
 // @author       ItsNorin
-// @include      /^https:\/\/(www\.)?bondageprojects\.elementfx\.com\/R\d+\/(BondageClub|\d+)(\/((index|\d+)\.html)?)?$/
-// @include      /^https:\/\/(www\.)?bondage-europe\.com\/R\d+\/(BondageClub|\d+)(\/((index|\d+)\.html)?)?$/
+// @match        https://bondageprojects.elementfx.com/*
+// @match        https://www.bondageprojects.elementfx.com/*
+// @match        https://bondage-europe.com/*
+// @match        https://www.bondage-europe.com/*
+// @match        http://localhost:*/*
 // @homepage     https://github.com/ItsNorin/Bondage-Club-XToys-Integration
-// @downloadURL  https://github.com/ItsNorin/Bondage-Club-XToys-Integration/BCXToysLoader.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
