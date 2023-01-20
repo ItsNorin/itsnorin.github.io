@@ -2,6 +2,8 @@
 
 Made for controlling irl toys  based on your in game character's worn toys, as well as interactions with other players inside chat rooms.
 
+#### [Github Repo](https://github.com/ItsNorin/Bondage-Club-XToys-Integration)
+
 ### Find me online for help or to see updates, report issues, mention any improvements you'd want, or just chat:
 
 [discord.gg/2VxqbbrUW8](https://discord.gg/2VxqbbrUW8)
