@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bondage Club XToys Integration Loader
-// @namespace    BC-XToys
+// @namespace    BCXToys
 // @description  Sends in game actions and toy activity to XToys.
 // @author       ItsNorin
 // @version      1.0
